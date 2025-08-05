@@ -29,5 +29,5 @@ Em caso de dúvidas não contempladas por essas instruções básicas, entre em 
 | CE            | Content Cell | Content Cell                             | Content Cell                             | Content Cell                   | Content Cell               | Content Cell                            |
 | CD            | Content Cell | Content Cell                             | Content Cell                             | Content Cell                   | Content Cell               | Content Cell                            |
 | CB            | Content Cell | Content Cell                             | Content Cell                             | Content Cell                   | Content Cell               | Content Cell                            |
-| CA            | Content Cell | Content Cell                             | Content Cell                             | Content Cell                   | Content Cell               | Content Cell                            |
+| CA            | Gabriel | 28                            | 13                             | 15                   | Content Cell               | Content Cell                            |
 | **Total**     | X            | Content Cell                             | Content Cell                             | Content Cell                   | X           | X                                      |
